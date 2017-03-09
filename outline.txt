@@ -1,0 +1,28 @@
+- Application modularity
+- node-example-app
+
+- express.js
+  - [simple request flow]
+  - [simple error handler]
+
+- next(new error())
+  - [break request flow with error]
+
+- middelware()
+  - [validation breaks request flow with error]
+
+- express.Router();
+  - [group sets of routes]
+
+- npm modules
+  - [middelware and error handler]
+  - [group of routers]
+
+- Fleksibility
+  - [single app]
+  - [append new router to single app]
+  - [split routers into multiple apps]
+  - [[[extend templates]]]
+
+- Other modules
+- Thank you
